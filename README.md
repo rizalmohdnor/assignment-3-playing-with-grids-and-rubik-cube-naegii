@@ -2,9 +2,9 @@
 # Assignment 2: Play with a 2x2 Rubik Cube
 by 
 
-**NAME**:Muhammad
+**NAME**:Muhammad Syafiq
 
-**Matric ID** Syafiq
+**Matric ID** 2211305
 
 ## Objective
 
